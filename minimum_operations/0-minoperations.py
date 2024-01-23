@@ -17,4 +17,4 @@ def minOperations(n):
 # Example usage:
 n = 9
 result = minOperations(n)
-print("Number of operations:", result)
+print(result)
